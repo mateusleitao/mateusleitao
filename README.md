@@ -1,7 +1,7 @@
 <div align="center">
   
  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Mateus%20Leitão%20Elpidio&fontSize=70&fontAlignY=35&desc=Sapere%20Aude&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Mateus%20Leitão&fontSize=70&fontAlignY=35&desc=Sapere%20Aude&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
