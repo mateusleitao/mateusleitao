@@ -126,13 +126,13 @@ struct MateusLeitao {
 
 <br/>
 
-## 🌟 **Projetos em Destaque**
+<!-- ## 🌟 **Projetos em Destaque**
 
 <div align="center">
   <a href="https://github.com/mateusleitao/concentrated-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateusleitao&repo=concentrated-app&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=ec4899" />
   </a>
-</div>
+</div>`` -->
 
 
 ## 📫 **Me chama, se precisar :)**
@@ -158,9 +158,11 @@ struct MateusLeitao {
 <br/>
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mateusleitao/mateusleitao/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%" />
