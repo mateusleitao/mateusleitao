@@ -1,20 +1,20 @@
 <div align="center">
   
  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Mateus%20Leitão&fontSize=70&fontAlignY=35&desc=Sapere%20Aude&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:22d3ee&height=230&section=header&text=Mateus%20Leitão&fontSize=70&fontAlignY=35&desc=Sapere%20Aude&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Matemática+%2B+Código+✨;Code+🍎;21+anos+de+ciência+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=0d6efd&center=true&vCenter=true&random=false&width=600&lines=Sites+de+Alta+Performance+⚡;Matemática+%2B+Código+✨;Design+Minimalista+🎨" alt="Typing SVG" />
   </a>
   
   <br/>
   
   <!-- Location & Social Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/📍_Fortaleza%2C_Ceará-Brasil-success?style=for-the-badge&labelColor=1a1a2e&color=7c3aed" alt="Location"/>
-    <img src="https://img.shields.io/badge/🎂_21-anos-blue?style=for-the-badge&labelColor=1a1a2e&color=5b21b6" alt="Age"/>
-    <img src="https://img.shields.io/badge/💜_Open_to-Work-ff6b6b?style=for-the-badge&labelColor=1a1a2e&color=ec4899" alt="Status"/>
+    <img src="https://img.shields.io/badge/📍_Fortaleza%2C_Ceará-Brasil-success?style=for-the-badge&labelColor=101622&color=0d6efd" alt="Location"/>
+    <img src="https://img.shields.io/badge/🎂_21-anos-blue?style=for-the-badge&labelColor=101622&color=22d3ee" alt="Age"/>
+    <img src="https://img.shields.io/badge/⚡_Sites_de-Alta_Performance-ff6b6b?style=for-the-badge&labelColor=101622&color=0a58ca" alt="Status"/>
   </p>
   
 </div>
@@ -36,17 +36,18 @@ struct MateusLeitao {
     let idade = 21
     let localização = "Fortaleza, Ceará 🌴"
     
-    var paixões = [
-        "Matemática Aplicada 📐",
+    var especialidades = [
+        "Sites de Alta Performance ⚡",
         "Design Minimalista ✨", 
         "Ecossistema Apple 🍎",
-        "Experiências Visuais 🎨"
+        "Matemática Aplicada 📐"
     ]
     
     var objetivos = [
-        "Desenvolver para iOS/macOS",
-        "Criar interfaces bonitas",
-        "Unir matemática e programação"
+        "Publicar rápido, medir e refinar",
+        "Criar interfaces bonitas e funcionais",
+        "Unir matemática e programação",
+        "Desenvolver para iOS/macOS"
     ]
     
     func filosofia() -> String {
@@ -63,25 +64,25 @@ struct MateusLeitao {
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+        <img src="https://img.shields.io/badge/High_Performance-0d6efd?style=for-the-badge&logo=lightning&logoColor=white" alt="Performance"/>
         <br/><br/>
-        <b>🍎 Ecossistema Apple</b>
+        <b>⚡ Sites de Alta Performance</b>
         <br/>
-        <sub>SwiftUI • UIKit • Core Data</sub>
+        <sub>Speed • SEO • Conversão</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Web_Design-7C3AED?style=for-the-badge&logo=figma&logoColor=white" alt="Web"/>
+        <img src="https://img.shields.io/badge/Web_Development-22d3ee?style=for-the-badge&logo=code&logoColor=white" alt="Web"/>
         <br/><br/>
-        <b>🎨 Web Moderno</b>
+        <b>🎨 Desenvolvimento Web</b>
         <br/>
         <sub>React • TypeScript • Tailwind</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Mathematics-FF6B6B?style=for-the-badge&logo=wolfram&logoColor=white" alt="Math"/>
+        <img src="https://img.shields.io/badge/iOS_Development-0a58ca?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
         <br/><br/>
-        <b>📐 Matemática</b>
+        <b>🍎 Ecossistema Apple</b>
         <br/>
-        <sub>Algoritmos • Lógica • Patterns</sub>
+        <sub>SwiftUI • UIKit • Core Data</sub>
       </td>
     </tr>
   </table>
@@ -94,18 +95,18 @@ struct MateusLeitao {
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusleitao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusleitao&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusleitao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0f14&title_color=0d6efd&icon_color=22d3ee&text_color=e5e7eb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusleitao&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0b0f14&title_color=0d6efd&text_color=e5e7eb"/>
   
   <br/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusleitao&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusleitao&theme=dark&hide_border=true&background=0b0f14&stroke=0d6efd&ring=22d3ee&fire=0a58ca&currStreakLabel=0d6efd" alt="Streak Stats"/>
   
   <br/><br/>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusleitao&theme=react-dark&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ec4899&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusleitao&theme=react-dark&bg_color=0b0f14&color=0d6efd&line=22d3ee&point=0a58ca&area=true&hide_border=true" width="95%"/>
   
 </div>
 
@@ -151,7 +152,7 @@ struct MateusLeitao {
   
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=mateusleitao&label=Visitantes&color=7c3aed&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mateusleitao&label=Visitantes&color=0d6efd&style=for-the-badge&labelColor=101622" alt="Profile Views"/>
   
 </div>
 
@@ -165,4 +166,4 @@ struct MateusLeitao {
 </picture>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0d6efd&height=100&section=footer" width="100%" />
