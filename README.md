@@ -39,19 +39,17 @@ struct MateusLeitao {
     var especialidades = [
         "Sites de Alta Performance ⚡",
         "Design Minimalista ✨", 
-        "Ecossistema Apple 🍎",
-        "Matemática Aplicada 📐"
+        "Ecossistema Apple 🍎"
     ]
     
     var objetivos = [
         "Publicar rápido, medir e refinar",
         "Criar interfaces bonitas e funcionais",
-        "Unir matemática e programação",
         "Desenvolver para iOS/macOS"
     ]
     
     func filosofia() -> String {
-        return "É tudo pela ciência"
+        return "Sapere Aude"
     }
 }
 ```
